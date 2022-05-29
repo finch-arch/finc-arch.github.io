@@ -1,0 +1,21 @@
+body{text-align: center;
+    margin-top: -32px;
+   
+      font-family: Verdana, sans-serif;}
+
+      .Bottom-cloud{ position: absolute;}
+      
+      .Top-cloud{position: relative;
+          right: 210px;
+         bottom: 250px;}
+
+         .top-container{background-color:#E9D5CA;}
+         .random{background-color: aqua;}
+         h1{font-family: 'sacramento'  , cursive;
+        margin-top: 30px;
+      color: blue}
+
+      .skill-row{width: 50%;
+        margin: auto;
+      }
+
